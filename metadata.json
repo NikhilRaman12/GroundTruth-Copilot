@@ -1,0 +1,7 @@
+{
+  "name": "GroundTruth Copilot",
+  "description": "A safety-critical, evidence-grounded AI decision-support system for Indian farmers and field workers, providing verified agricultural guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
